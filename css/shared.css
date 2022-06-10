@@ -1,4 +1,4 @@
-  body {
+  /* body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
@@ -9,7 +9,6 @@
 
   html { 
     background-image: url("https://picsum.photos/200/300?grayscale") no-repeat center center fixed; 
-    /* opacity: 0.3; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -34,4 +33,4 @@
   .list-container {
     display: flex; 
     flex-direction:column;
-  }
+  } */
