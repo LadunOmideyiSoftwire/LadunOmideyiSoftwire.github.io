@@ -1,8 +1,15 @@
 body {
     margin: 0;
     padding: 0;
-    background: grey;
     font-family: 'Open Sans', sans-serif;
+    background-image: url("https://picsum.photos/200/300?grayscale");
+    opacity: 0.3;
   }
 
+  .container {
+    display: flex; 
+    flex-direction:row;
+    margin: 40px;
+    padding: 20px;
+  }
   
