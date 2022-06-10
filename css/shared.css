@@ -8,7 +8,7 @@
   }
 
   html { 
-    background-image: url("https://picsum.photos/200/300?grayscale") no-repeat center center fixed; 
+    /* background-image: url("https://picsum.photos/200/300?grayscale") no-repeat center center fixed;  */
     opacity: 0.3;
     -webkit-background-size: cover;
     -moz-background-size: cover;
