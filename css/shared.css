@@ -2,9 +2,8 @@
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
-    background-image: url("https://picsum.photos/200/300?grayscale");
+    background-image: url("https://picsum.photos/200/300?grayscale") no-repeat;
     opacity: 0.3;
-    background-color: #f3f3f3;
     color: #1d1d1d;
     font-family: "Adelle Sans";
     font-size: 1.6rem;
