@@ -1,15 +1,31 @@
-body {
+.body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     background-image: url("https://picsum.photos/200/300?grayscale");
     opacity: 0.3;
+    background-color: #f3f3f3;
+    color: #1d1d1d;
+    font-family: "Adelle Sans";
+    font-size: 1.6rem;
   }
 
   .container {
     display: flex; 
     flex-direction:row;
-    margin: 40px;
-    padding: 20px;
+    margin: 40px 40px;
+    padding: 20px 40px;
+  }
+
+  .title {
+    color: darkred;
   }
   
+  .homepage-image {
+    border: 2px black solid
+  }
+
+  .list-container {
+    display: flex; 
+    flex-direction:column;
+  }
